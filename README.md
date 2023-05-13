@@ -1,2 +1,2 @@
-# Js2
+NoteJS
 #ReadMe
